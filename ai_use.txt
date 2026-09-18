@@ -1,0 +1,15 @@
+
+What I Used It For:
+I used ChatGPT to help me better understand the Work Breakdown Structure for my Parking Buddy project. I also used it to help organize the project phases and deliverables, improve the wording of some sections I had already written, and explain how to upload my project files to GitHub.
+
+Prompt Used 
+"Explain how a Work Breakdown Structure works."
+"Help me organize the phases and deliverables for my Parking Buddy project."
+
+What I used Claude for:
+I used Claude to help me understand how gantt charts and how they are built through Excel, I also used claude to show me examples of what is a wbs and real life examples as well of what WBS are. 
+
+Prompt Used
+“Can you explain what a Gantt chart is in simple terms?”
+“Can you show me a real-world example of a WBS?”
+“What is the difference between a WBS and a Gantt chart?”
