@@ -1,0 +1,10 @@
+
+What I Used It For:
+I used Claude To help me better understand How Backlog items are based on. I went in depth to better understand how sprints wrk and ow i can use Trello to help me. 
+instructions for setting up Trello board. and basic grammar fix that make sure my document kept the same structure and there weren't any mistakes. 
+
+Prompt Used 
+"Explain how a Backlog Structure works and the items "
+"Help me organize thenext phase and fix any grammar issues that may be found"
+"Show me real world examples of Product Backlogs and how companies uttilze them"
+"What are easy way sprints can be incooperated into an everyday business"
