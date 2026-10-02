@@ -1,0 +1,11 @@
+
+What I Used It For:
+I used Claude to help me understand the Lecture 5 homework on risk management and communication plans.I used claude to give me real world examples, while also heling w=me with structure the word document to make sure the format and grammar were correct before submissions. 
+
+Prompt used-
+“Can you explain risk management in simple terms and give me a real-world example?”
+“What is a risk register, and how is it used in a project?”
+“Can you give me examples of technical, schedule, financial, and people risks for a software project?”
+“Can you explain the difference between risk probability and risk impact?”
+“What are common risk response strategies like avoid, mitigate, transfer, and accept?”
+“Can you review the format of my document and make sure the headings, tables, and sections are organized clearly?”
