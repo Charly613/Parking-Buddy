@@ -1,0 +1,8 @@
+What I Used It For:
+I used Claude to help me understand the Lecture 6 homework on resources, costs, and RACI matrices. Claude helped me create the team roles table, the bottom-up cost plan.
+
+Prompt Used
+“Can you show me real world examples of RACI matrices”
+“What is the average cost for a parking software app”
+“What is the average cost for a parking software app team and who are usually involved”
+"fix any grammar issues that are involved in this assignment" 
