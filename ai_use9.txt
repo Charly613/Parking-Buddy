@@ -1,0 +1,16 @@
+What I used it for 
+1.I used claude and chatgpt this assignment to help me for research to see what software fails and what caused these software fails. 
+2.Also used chatgpt to fix the structure and organization of the assignment, also used it to fix any grammar and formatting issue that might arise. 
+3.I used claude to give me real world examples so i can better understand the assignment and update project to make sure it understands. 
+
+Prompts used chatgot 
+1. "Can you help me organize my project closure report and make sure I have everything the assignment asks for?"
+
+2. "Can you fix the grammar and formatting in my Parking Buddy document without changing the structure?"
+
+3. "What are some examples of software projects that failed, and what caused them to fail?"
+
+Prompts used Claude 
+1. "Can you give me real-world examples of software project failures and explain what went wrong in simple words?"
+
+2. "What are some common problems software teams face during a project, and how can they avoid them?"
